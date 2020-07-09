@@ -1,2 +1,2 @@
-# PythonScrappy
-Scrappy doing Scrappy thing
+# PythonScrapy
+Scrapy doing Scrapy thing
